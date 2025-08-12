@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+section{
+    background-color:#fff;
+}
+section .mid {
+    width:1140px;
+    margin:auto;
+    padding:50px 0;
+    font-size:40px;
+    font-weight: bold;
+}
+
+h1{
+    color:red;
+    padding:20px;
+    background-color:orange;
+}
